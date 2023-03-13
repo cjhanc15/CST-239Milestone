@@ -3,7 +3,7 @@
 ## Video Walkthroughs: 
 ### Milestone 1: https://www.loom.com/share/b29fc8e84cef4f6a8ef0b03d9b9588a8
 ### Milestone 2: https://loom.com/share/31af5c4929d349f08850150e71e7f6db
-### Milestone 3: Coming soon!
+### Milestone 3: https://www.loom.com/share/89720b8c2d104e309b8a66033d6ed830
 ### Milestone 4: Coming soon!
 ### Milestone 5: Coming soon!
 ### Milestone 6: Coming soon!
