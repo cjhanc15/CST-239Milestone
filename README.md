@@ -10,7 +10,7 @@
 ### Milestone 7: Coming soon!
 
 ## UMLs
-<img width="828" alt="Screenshot 2023-03-25 at 1 57 04 PM" src="https://user-images.githubusercontent.com/102087890/227738807-131b509e-2ff3-4c23-804c-c93b9742fef4.png">
+<img width="1008" alt="Screenshot 2023-03-26 at 4 49 29 PM" src="https://user-images.githubusercontent.com/102087890/227809675-c4c1fc8d-2aa2-4dcf-af40-326b14f58917.png">
 
 ## Flowchart
 <img width="193" alt="Screenshot 2023-03-11 at 12 52 19 PM" src="https://user-images.githubusercontent.com/102087890/224517900-d0fde4c7-aa71-40b2-b921-31b0c8082e16.png">
