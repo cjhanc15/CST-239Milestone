@@ -5,7 +5,7 @@
 ### Milestone 2: https://loom.com/share/31af5c4929d349f08850150e71e7f6db
 ### Milestone 3: https://www.loom.com/share/89720b8c2d104e309b8a66033d6ed830
 ### Milestone 4: https://www.loom.com/share/5a85f16f51844c8c87f3299bffef094a
-### Milestone 5: Coming soon!
+### Milestone 5: https://www.loom.com/share/0fd34e08aacb40ae8d2362e0cb36ea38
 ### Milestone 6: Coming soon!
 ### Milestone 7: Coming soon!
 
