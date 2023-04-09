@@ -11,7 +11,10 @@
 ### Final Presentation: Coming soon!
 
 ## UMLs
-<img width="1008" alt="Screenshot 2023-03-26 at 4 49 29 PM" src="https://user-images.githubusercontent.com/102087890/227809675-c4c1fc8d-2aa2-4dcf-af40-326b14f58917.png">
+<img width="717" alt="Screenshot 2023-04-09 at 1 32 19 PM" src="https://user-images.githubusercontent.com/102087890/230792844-ef7b93ae-b630-4ecd-ad34-7f9208aeb6ee.png">
 
 ## Flowchart
+### Game User:
 <img width="193" alt="Screenshot 2023-03-11 at 12 52 19 PM" src="https://user-images.githubusercontent.com/102087890/224517900-d0fde4c7-aa71-40b2-b921-31b0c8082e16.png">
+### Admin:
+<img width="299" alt="Screenshot 2023-04-09 at 1 32 44 PM" src="https://user-images.githubusercontent.com/102087890/230792857-ffbf1080-8a8c-4905-a004-0fcf60d75ecb.png">
