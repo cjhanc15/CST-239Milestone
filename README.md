@@ -8,6 +8,7 @@
 ### Milestone 5: https://www.loom.com/share/0fd34e08aacb40ae8d2362e0cb36ea38
 ### Milestone 6: Coming soon!
 ### Milestone 7: Coming soon!
+### Final Presentation: Coming soon!
 
 ## UMLs
 <img width="1008" alt="Screenshot 2023-03-26 at 4 49 29 PM" src="https://user-images.githubusercontent.com/102087890/227809675-c4c1fc8d-2aa2-4dcf-af40-326b14f58917.png">
