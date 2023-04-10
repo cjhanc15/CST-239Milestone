@@ -7,7 +7,7 @@
 ### Milestone 4: https://www.loom.com/share/5a85f16f51844c8c87f3299bffef094a
 ### Milestone 5: https://www.loom.com/share/0fd34e08aacb40ae8d2362e0cb36ea38
 ### Milestone 6: https://loom.com/share/3fd72219518b465cb12073d413514d9f
-### Milestone 7: Coming soon!
+### Milestone 7: https://www.loom.com/share/7a39c10f181944ca9186530193449640
 ### Final Presentation: Coming soon!
 
 ## UMLs
